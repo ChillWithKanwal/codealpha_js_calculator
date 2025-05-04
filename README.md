@@ -18,7 +18,7 @@ Follow these steps to run the project locally:
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR_USERNAME/Calculator-Project.git
+git clone https://github.com/ChillWithKanwal/codealpha_js_calculator.git
 Open the index.html file in a browser.
 
 Start calculating! ✨
